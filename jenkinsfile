@@ -26,7 +26,7 @@ pipeline {
         }
         stage('Monitoring') {
             steps {
-               echo 'I am in monitoring phase'
+               echo 'I am in monitoring phase
             }
         }
        stage('Testing') {
